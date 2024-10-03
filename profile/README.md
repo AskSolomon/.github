@@ -1,2 +1,2 @@
-# .github
+# AskSolomon
 Ask. Learn. Repeat.
